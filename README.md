@@ -1,5 +1,5 @@
 # My-Custom-CSS-For-Discord
-- My Custom Theme For Anyone To Use On A Modified Discord Client
+- **My Custom Theme For Anyone To Use On A Modified Discord Client**
 
 
 # **Socials**
@@ -17,8 +17,8 @@
 
 
 # Customization
-- (You Can Change This Theme To Your Liking By Changing The Hex Color Values)
+- **(You Can Change This Theme To Your Liking By Changing The Hex Color Values)**
 
 
 # This Can Be Used For Modified Discord Client's
-- (Like Betterdiscord & Vencord, & Alot Other's!)
+- **Like Betterdiscord & Vencord, & Alot Other's!)**
