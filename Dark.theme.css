@@ -1,0 +1,27 @@
+/**
+  * @name Dark Pink Theme
+  * @version Dark+3
+  * @description Modified Version Of DevEvil99's Dark+ Theme
+  * @authorId 1106620371307864085
+  * @authorLink https://github.com/DevEvil99
+  * @source https://github.com/DevEvil99/DarkPlus-Discord-Theme
+  * @website https://github.com/DevEvil99
+*/
+
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
+
+:root {
+  --darkplus-bg: #161616;
+  --darkplus-bg2: #0a0a0a;
+  --darkplus-sec: #FF0088;
+  --darkplus-links: #FF0088;
+  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/468141324906921984/852117175212179466/discord-avatar-512-YV0PV.png);
+ --watermark-filter-invert: 0%;
+  --watermark-filter-sepia: 50%;
+  --watermark-filter-saturate: 3000%;
+  --watermark-filter-hue-rotate: 210deg;
+  --watermark-filter-brightness: 70%;
+  --watermark-filter-contrast: 200%;
+  --darkplus-emoji-picker-color: 210deg;
+}
+
